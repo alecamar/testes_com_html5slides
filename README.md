@@ -1,6 +1,6 @@
 # FDIG
 
-FDIG - Ferramentas Digitais para uma Ciência Aberta e com grandes quantidades de dados
+**FDIG - Ferramentas Digitais para uma Ciência Aberta e com grandes quantidades de dados**
 
 Repositório da disciplina optativa FDIG do Centro de Ciências da Natureza, campus Lagoa do Sino, UFSCar
 
