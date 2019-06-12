@@ -1,0 +1,36 @@
+---
+title: "Ciência 2.0"
+subtitle: "Novos paradigmas da ciência"
+author: "Alexandre Camargo Martensen"
+institute: "CCN, Lagoa do Sino, UFSCar"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+---
+name: Slide_logos
+Teste
+
+![facebook](https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png)
+![Mendeley](https://www.uib.no/sites/w3.uib.no/files/styles/content_main/public/media/mendeley-logo.jpg?itok=E_lTvdI_&timestamp=1554891870)
+
+xaringan::inf_mr()
+
+---
+class: center, middle
+
+
+
+---
+class: inverse, center, middle
+
+# Get Started
+
+---
+
+# Hello World
+
